@@ -8,6 +8,8 @@ type Shape =
   /// A triangle with side lengths.
   | Triangle of float * float * float
 
+/// Modify this function to compute the area of a given shape.
+/// Hint: To compute a square root, use `sqrt`.
 let area shape =
   0.0
 
