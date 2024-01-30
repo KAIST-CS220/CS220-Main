@@ -1,7 +1,5 @@
 ﻿/// KAIST CS220 In-Class Activity Project
 
-open System.Diagnostics
-
 type Hero =
   | SuperMan
   | BatMan
