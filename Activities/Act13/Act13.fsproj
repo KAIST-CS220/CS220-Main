@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="User.fs" />
+    <Compile Include="DB.fs" />
+    <Compile Include="Program.fs" />
+    <None Include="data/users.csv" CopyToOutputDirectory="PreserveNewest"/>
+  </ItemGroup>
+
+</Project>
