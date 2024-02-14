@@ -40,7 +40,8 @@ CLI](https://cli.github.com/) for the third method.
 You should learn basic commands to do your homeworks. In most cases, your
 workflow will be as follows.
 
-1. You clone a repository to your local machine using the above commands.
+1. You clone a repository to your local machine using one of the commands above,
+   i.e., `git clone ...`, etc.
 2. You now modify some of the files in your local (cloned) repository.
 3. You want to save your changes by first adding modified files to the staging
    area with `git add <file>` command. The command will mark the file to be
@@ -51,3 +52,8 @@ workflow will be as follows.
    command.
 6. Always remember to make sure that your push is successful by checking the
    GitHub web page.
+
+### How do I install .NET SDK?
+
+You should install .NET SDK 8.0 or above. Please read this
+[guide](https://learn.microsoft.com/en-us/dotnet/core/install/).
