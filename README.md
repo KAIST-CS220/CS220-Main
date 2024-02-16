@@ -5,6 +5,20 @@ Welcome to the `main` repository of CS220. This is where you find your H/W resou
 
 # FAQs
 
+## Shell
+
+Shell is a program that allows you to interact with your computer using text
+commands. You'd better get used to it to do your homeworks. There are many
+different kinds of shells, but here are some of the most popular ones for each
+platform.
+- Windows: [Windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/install) (recommended) or PowerShell.
+- macOS: [Terminal](https://support.apple.com/guide/terminal/welcome/mac)
+- Linux: bash, zsh, etc.
+
+We will assume that you understand how to list files/directories, modify
+files/directories, and launch programs using a shell. You may find
+[this](https://missing.csail.mit.edu/) useful.
+
 ## Git
 
 ### How do I clone this repository?
