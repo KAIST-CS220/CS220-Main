@@ -1,7 +1,13 @@
 KAIST CS220
 ===
 
-Welcome to the `main` repository of CS220. This is where you find your H/W resources and ask questions.
+Welcome to the `main` repository of CS220. This is where you find resources for
+the homeworks and in-class activities. Also, this is the central place where you
+can ask questions and discuss with your peers and TAs.
+
+# Syllabus and Slides
+
+You should visit [this page](https://softsec.kaist.ac.kr/courses/2024s-cs220/) to see them.
 
 # FAQs
 
