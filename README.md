@@ -35,6 +35,9 @@ CLI](https://cli.github.com/) for the third method.
 
 1. Using HTTPS
 
+   To learn how to authenticate with GitHub using HTTPS, see
+   [this](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github#https).
+
     ```bash
     git clone https://github.com/KAIST-CS220/CS220-Main.git
     ```
