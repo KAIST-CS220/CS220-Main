@@ -9,6 +9,13 @@ can ask questions and discuss with your peers and TAs.
 
 You should visit [this page](https://softsec.kaist.ac.kr/courses/2024s-cs220/) to see them.
 
+# Questions
+
+You should use the discussions tab of this repository to ask questions. One
+important thing to remember is that you should search for similar questions
+before asking a new one. TAs will deduct your points if you ask a question that
+has already been asked.
+
 # FAQs
 
 ## Shell
