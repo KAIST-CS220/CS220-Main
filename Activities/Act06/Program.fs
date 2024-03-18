@@ -19,6 +19,6 @@ let lastButOne lst =
   failwith "Implement"
 
 printfn "last element: %d" <| last [ 1; 2; 3; 4; 5 ]
-printfn "last element: %d" <| last [ "a"; "bcd"; "efg" ]
-printfn "last but one element: %d" <| last [ 1; 2; 3; 4; 5 ]
-printfn "last but one element: %d" <| last [ 1.1; 2.2 ]
+printfn "last element: %s" <| last [ "a"; "bcd"; "efg" ]
+printfn "last but one element: %d" <| lastButOne [ 1; 2; 3; 4; 5 ]
+printfn "last but one element: %f" <| lastButOne [ 1.1; 2.2 ]
