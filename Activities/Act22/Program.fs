@@ -45,7 +45,7 @@ let muldiv = parser {
 let term = parser {
   let! n = number
   let! _ = many (char ' ')
-  let! r = muldiv
+  let! r = muldiv // Fix this line, too
   return r
 }
 
